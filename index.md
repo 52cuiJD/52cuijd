@@ -42,9 +42,9 @@ ECN模式是一个撮合技术，平台既不作为客户的交易对手，也�
 **相关资料：**外汇交易如何赚钱，外汇交易技术策略
 
 确实想交易外汇的可以参考：（**大中华区基本是离岸监管**）
-<a href="https://welcome-partners.thinkmarkets.com/afs/come.php?id=5937&cid=11428&atype=1&ctgid=1203" target="_blank">详情介绍》》</a>
 
-1. Thinkfx 监管机构编号（澳洲ASIC 424700；英国FCA 629628）[详情介绍》》](https://welcome-partners.thinkmarkets.com/afs/come.php?id=5937&cid=11428&atype=1&ctgid=1203)
-2. EXNESS  监管机构编号 （英国FCA 730729；塞浦路斯CySEC 178/12）[详情介绍》》](https://one.exness.link/intl/zh/a/u3p9s7ij)
+
+1. Thinkfx 监管机构编号（澳洲ASIC 424700；英国FCA 629628）<a href="https://welcome-partners.thinkmarkets.com/afs/come.php?id=5937&cid=11428&atype=1&ctgid=1203" target="_blank">详情介绍》》</a>
+2. EXNESS  监管机构编号 （英国FCA 730729；塞浦路斯CySEC 178/12）<a href="https://one.exness.link/intl/zh/a/u3p9s7ij" target="_blank">详情介绍》》</a>
 
 [  ![](https://raw.githubusercontent.com/52cuiJD/52cuijd.github.io/main/ThinkMarkets_728x90R2.gif)](https://welcome-partners.thinkmarkets.com/afs/come.php?id=6503&cid=11428&ctgid=1196&atype=1)
