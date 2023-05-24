@@ -39,9 +39,7 @@ ECN模式是一个撮合技术，平台既不作为客户的交易对手，也�
 
 **最后，结论，外汇交易是一种风险较高的投资方式，但也是一种可以获得高回报的投资方式。首先我们要选择合适的平台，然后运用合适的交易策略。这样才能让我们的交易之路更加顺畅。**
 
-**相关资料：**外汇交易如何赚钱，外汇交易技术策略
-
-确实想交易外汇的可以参考：（**大中华区基本是离岸监管**）
+**外汇交易平台参考：（大中华区基本是离岸监管）**
 
 1. Thinkfx 监管机构编号（澳洲ASIC 424700；英国FCA 629628）<a href="https://welcome-partners.thinkmarkets.com/afs/come.php?id=6503&cid=12779&ctgid=1196&atype=1" target="_blank">详情介绍》》</a>
 2. EXNESS  监管机构编号 （英国FCA 730729；塞浦路斯CySEC 178/12）<a href="https://one.exness.link/intl/zh/a/u3p9s7ij" target="_blank">详情介绍》》</a>
